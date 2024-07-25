@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Downloads\project\Mancher\bin\Debug\Mancher.exe.config
+C:\Users\ADMIN\Downloads\project\Mancher\bin\Debug\Mancher.exe
+C:\Users\ADMIN\Downloads\project\Mancher\bin\Debug\Mancher.pdb
+C:\Users\ADMIN\Downloads\project\Mancher\obj\Debug\Mancher.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\project\Mancher\obj\Debug\Mancher.Man.resources
+C:\Users\ADMIN\Downloads\project\Mancher\obj\Debug\Mancher.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\project\Mancher\obj\Debug\Mancher.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\project\Mancher\obj\Debug\Mancher.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\project\Mancher\obj\Debug\Mancher.exe
+C:\Users\ADMIN\Downloads\project\Mancher\obj\Debug\Mancher.pdb
+C:\Users\ADMIN\Downloads\project\Mancher\obj\Debug\Mancher.CoachingStaff.resources
+C:\Users\ADMIN\Downloads\project\Mancher\obj\Debug\Mancher.FormMusic.resources
+C:\Users\ADMIN\Downloads\project\Mancher\obj\Debug\Mancher.FormCompetitionShirt.resources
+C:\Users\ADMIN\Downloads\project\Mancher\obj\Debug\Mancher.FormLegend.resources
+C:\Users\ADMIN\Downloads\project\Mancher\obj\Debug\Mancher.TacticalScheme.resources
+C:\Users\ADMIN\Downloads\project\Mancher\obj\Debug\Mancher.Player.resources
